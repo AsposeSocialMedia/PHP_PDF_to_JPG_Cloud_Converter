@@ -1,0 +1,3 @@
+[submodule "Aspose_Cloud_SDK_For_PHP"]
+	path = Aspose_Cloud_SDK_For_PHP
+	url = git://github.com/asposeforcloud/Aspose_Cloud_SDK_For_PHP.git
